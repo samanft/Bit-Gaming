@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Super Mario Galaxy 2",
+        "image": "../images/games/Galaxy2.jpg",
+        "platform": "Wii",
+        "genre": "Platformer",
+        "releaseDate": "23-05-2010",
+        "price":"19,99"
+    },
+    {
+        "name": "Bloodborne",
+        "image":"../images/games/Bloodborne.jpg",
+        "platform": "PS4",
+        "genre": "Actie",
+        "releaseDate": "24-03-2015",
+        "price":"19,99"
+    },
+    {
+        "name": "Gravity Rush 2",
+        "image":"../images/games/GravityRush2.jpg",
+        "platform": "PS4",
+        "genre": "Actie",
+        "releaseDate": "18-01-2017",
+        "price":"39,99"
+    },
+    {
+        "name": "Bloons TD 6",
+        "image":"../images/games/BloonsTD6.jpg",
+        "platform": "PC",
+        "genre": "Strategie",
+        "releaseDate": "13-06-2018",
+        "price":"13,99"
+    },
+    {
+        "name": "ARMS",
+        "image":"../images/games/ARMS.jpg",
+        "platform": "Nintendo Switch",
+        "genre": "Vechtspel",
+        "releaseDate": "16-06-2017",
+        "price":"59,99"
+    },
+    {
+        "name": "Snipperclips",
+        "image":"../images/games/Snipperclips.jpg",
+        "platform": "Nintendo Switch",
+        "genre": "Puzzel",
+        "releaseDate": "16-06-2017",
+        "price":"19,99"
+    }
+]
